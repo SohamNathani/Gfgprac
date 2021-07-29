@@ -14,7 +14,7 @@ using ll = long long;
 
 int main()
 {
-    cout<<josephus(5);
+    cout<<josephus(5,3);
 
     return 0;
 }
